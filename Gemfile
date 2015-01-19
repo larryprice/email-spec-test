@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.2.0'
+
+gem 'email_spec'
+gem 'capybara'
+gem 'cucumber'
+gem 'sinatra'
+gem 'haml'
+gem 'pony'
+gem 'rspec'
