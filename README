@@ -1,0 +1,3 @@
+A quick thing I worked up for my blog post at https://larry-price.com/blog/2014/07/12/testing-automated-emails-with-email-spec-in-cucumber.
+
+To run the cucumber tests, just use "cucumber". Make sure to "bundle install" all the things!
